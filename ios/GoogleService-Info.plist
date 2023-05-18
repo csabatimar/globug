@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1065285603489-9qhmj82e3plihnu7buk0mksc4kdp0v4c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1065285603489-9qhmj82e3plihnu7buk0mksc4kdp0v4c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1065285603489-v4146ljfu9smr7mr9a4nspauklr20o90.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrMY-c_vN4ipU9eceoojVKRP5RDcAB4t0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1065285603489</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nz.co.globug.app.v2</string>
+	<key>PROJECT_ID</key>
+	<string>gcp-fsg-globug-mobileapp-prod</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gcp-fsg-globug-mobileapp-prod.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1065285603489:ios:2d8c80c20a67d92cc8e0e0</string>
+	<key>DATABASE_URL</key>
+	<string>https://gcp-fsg-globug-mobileapp-prod-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

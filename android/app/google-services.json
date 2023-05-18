@@ -1,0 +1,55 @@
+{
+    "project_info": {
+      "project_number": "1065285603489",
+      "firebase_url": "https://gcp-fsg-globug-mobileapp-prod-default-rtdb.asia-southeast1.firebasedatabase.app",
+      "project_id": "gcp-fsg-globug-mobileapp-prod",
+      "storage_bucket": "gcp-fsg-globug-mobileapp-prod.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:1065285603489:android:8923fe5ae2179c60c8e0e0",
+          "android_client_info": {
+            "package_name": "com.globug"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "1065285603489-v4146ljfu9smr7mr9a4nspauklr20o90.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.globug",
+              "certificate_hash": "4192346c9e279de062b78b0cefb2cc5ee686b9e1"
+            }
+          },
+          {
+            "client_id": "1065285603489-9p91322opi4vdjjp7e0cbbojr3gi0ku1.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAAjqcT-eoQlAK0Zl3uG0zk7SajS9ut2Pc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "1065285603489-9p91322opi4vdjjp7e0cbbojr3gi0ku1.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "1065285603489-9qhmj82e3plihnu7buk0mksc4kdp0v4c.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "nz.co.globug.app.v2"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+   }
